@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blindspot · Confidentialité</title>
+    <meta
+      name="description"
+      content="Politique de confidentialité de l'extension Blindspot et information des personnes figurant dans la liste fournie."
+    />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <style>
+      :root {
+        --bg: #f4f4f1;
+        --surface: #ffffff;
+        --text: #111111;
+        --muted: #4a4a48;
+        --border: #d9d9d4;
+        --accent: #4b6b00;
+        --mark: #c6f432;
+        color-scheme: light;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111111;
+          --surface: #1b1b1a;
+          --text: #e9e9e6;
+          --muted: #a8a8a3;
+          --border: #33332f;
+          --accent: #c6f432;
+          --mark: #c6f432;
+          color-scheme: dark;
+        }
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font:
+          17px/1.6 system-ui,
+          -apple-system,
+          'Segoe UI',
+          sans-serif;
+      }
+      main {
+        max-width: 46rem;
+        margin: 0 auto;
+        padding: 2.5rem 1rem 4rem;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        margin-bottom: 0.5rem;
+      }
+      header img {
+        width: 40px;
+        height: 40px;
+      }
+      h1,
+      h2 {
+        font-family: 'Courier New', Consolas, monospace;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        line-height: 1.2;
+      }
+      h1 {
+        margin: 0;
+        font-size: 1.6rem;
+      }
+      h2 {
+        margin: 2.5rem 0 0.75rem;
+        padding-top: 1.25rem;
+        border-top: 2px solid var(--text);
+        font-size: 1.1rem;
+      }
+      h3 {
+        margin: 1.5rem 0 0.5rem;
+        font-size: 1rem;
+      }
+      p,
+      li {
+        max-width: 65ch;
+      }
+      .lede {
+        color: var(--muted);
+        margin-top: 0;
+      }
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-left: 6px solid var(--mark);
+        padding: 1rem 1.25rem;
+        margin: 1.5rem 0;
+      }
+      a {
+        color: var(--accent);
+        text-underline-offset: 3px;
+      }
+      dl {
+        display: grid;
+        grid-template-columns: minmax(9rem, max-content) 1fr;
+        gap: 0.5rem 1.25rem;
+        margin: 1rem 0;
+      }
+      dt {
+        font-weight: 700;
+      }
+      dd {
+        margin: 0;
+      }
+      @media (max-width: 34rem) {
+        dl {
+          grid-template-columns: 1fr;
+        }
+        dd {
+          margin-bottom: 0.5rem;
+        }
+      }
+      code {
+        font-size: 0.9em;
+        overflow-wrap: anywhere;
+      }
+      footer {
+        margin-top: 3rem;
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <img src="icon.svg" alt="" />
+        <h1>Blindspot</h1>
+      </header>
+      <p class="lede">
+        Politique de confidentialité de l'extension et information des personnes figurant dans la
+        liste fournie. Dernière mise à jour : 1<sup>er</sup> novembre 2026.
+      </p>
+
+      <div class="card">
+        <strong>En bref :</strong> Blindspot n'envoie aucune donnée nulle part. Vos listes et vos
+        réglages restent dans votre navigateur. Contact :
+        <a href="mailto:blindspotx-confidentialite@protonmail.com"
+          >blindspotx-confidentialite@protonmail.com</a
+        >.
+      </div>
+
+      <h2>L'extension</h2>
+      <p>
+        Blindspot est une extension Chrome et Firefox qui masque visuellement, sur X (x.com), les
+        posts des comptes figurant dans les listes de l'utilisateur. Elle ne bloque, ne met en
+        sourdine et ne signale aucun compte, et n'agit jamais sur le compte X de l'utilisateur. Le
+        code source est public :
+        <a href="https://github.com/Izura21/blindspotX">github.com/Izura21/blindspotX</a> (licence
+        MIT).
+      </p>
+
+      <h2>Vos données</h2>
+      <ul>
+        <li>
+          <strong>Aucune collecte.</strong> L'extension n'émet aucune requête réseau : rien n'est
+          envoyé à l'éditeur ni à un tiers. Il n'y a ni compte, ni statistiques d'usage, ni
+          publicité.
+        </li>
+        <li>
+          <strong>Stockage local.</strong> Vos listes, vos réglages et un compteur de posts masqués
+          sont enregistrés dans le stockage de l'extension, dans votre navigateur. Ils sont
+          supprimés quand vous désinstallez l'extension. L'export, l'import et le partage par code
+          passent par des fichiers ou le presse-papiers, sous votre contrôle.
+        </li>
+        <li>
+          <strong>Ce qui est lu sur la page.</strong> Pour savoir quels posts masquer, l'extension
+          lit sur x.com les pseudos et identifiants des auteurs affichés. Cette lecture reste dans
+          votre navigateur.
+        </li>
+      </ul>
+      <h3>Autorisations demandées</h3>
+      <dl>
+        <dt><code>storage</code></dt>
+        <dd>Enregistrer vos listes et réglages, localement.</dd>
+        <dt><code>scripting</code></dt>
+        <dd>Injecter dans les onglets X la feuille de style qui recouvre les posts.</dd>
+        <dt><code>contextMenus</code></dt>
+        <dd>Proposer « Ajouter à Blindspot » dans le menu clic droit d'un lien de profil.</dd>
+        <dt>Accès à X</dt>
+        <dd>x.com, twitter.com et leurs versions mobiles : les seuls sites où l'extension agit.</dd>
+      </dl>
+
+      <h2>La liste fournie</h2>
+      <p>
+        L'extension est livrée avec une liste activée par défaut, « Politiques de droite / extrême
+        droite ». L'utilisateur peut la désactiver, en retirer des comptes pour lui seul ou la
+        compléter.
+      </p>
+      <h3>Information des personnes listées</h3>
+      <dl>
+        <dt>Responsable</dt>
+        <dd>
+          L'éditeur de Blindspot, joignable à
+          <a href="mailto:blindspotx-confidentialite@protonmail.com"
+            >blindspotx-confidentialite@protonmail.com</a
+          >.
+        </dd>
+        <dt>Personnes concernées</dt>
+        <dd>
+          Comptes officiels de partis et de groupes parlementaires, dirigeants, porte-parole et élus
+          nationaux et européens de ces partis, qui affichent eux-mêmes leur affiliation. Aucun
+          particulier.
+        </dd>
+        <dt>Données</dt>
+        <dd>
+          Pseudo X public, identifiant numérique public du compte, nom et parti tels que publiés.
+        </dd>
+        <dt>Finalité</dt>
+        <dd>
+          Permettre aux utilisateurs de l'extension de ne plus voir les posts de ces comptes dans
+          leur navigateur. La liste n'est utilisée à aucune autre fin.
+        </dd>
+        <dt>Base légale</dt>
+        <dd>
+          Intérêt légitime (RGPD, art. 6.1.f), portant sur des informations rendues manifestement
+          publiques par les personnes elles-mêmes dans le cadre de leur activité politique (art.
+          9.2.e).
+        </dd>
+        <dt>Sources</dt>
+        <dd>
+          Open data de l'Assemblée nationale et du Sénat, Wikidata, sites officiels des partis.
+          Critères détaillés :
+          <a href="https://github.com/Izura21/blindspotX/blob/main/docs/lists.md">docs/lists.md</a>.
+        </dd>
+        <dt>Diffusion</dt>
+        <dd>
+          La liste fait partie du code de l'extension, publié sur les boutiques d'extensions et sur
+          GitHub.
+        </dd>
+        <dt>Durée</dt>
+        <dd>
+          Tant que la personne exerce le mandat ou la fonction qui justifie sa présence ; la liste
+          est révisée à chaque version.
+        </dd>
+      </dl>
+      <h3>Vos droits</h3>
+      <p>
+        Vous pouvez demander l'accès aux informations vous concernant, leur rectification, votre
+        retrait de la liste ou vous opposer à y figurer, en écrivant à
+        <a href="mailto:blindspotx-confidentialite@protonmail.com"
+          >blindspotx-confidentialite@protonmail.com</a
+        >. Les demandes reçoivent une réponse sous un mois ; un retrait est publié dans la version
+        suivante de l'extension. Vous pouvez aussi saisir la
+        <a href="https://www.cnil.fr/fr/plaintes">CNIL</a>.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Pour toute question sur cette politique ou sur l'extension :
+        <a href="mailto:blindspotx-confidentialite@protonmail.com"
+          >blindspotx-confidentialite@protonmail.com</a
+        >.
+      </p>
+
+      <footer>Blindspot · <a href="https://github.com/Izura21/blindspotX">code source</a></footer>
+    </main>
+  </body>
+</html>

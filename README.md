@@ -10,7 +10,7 @@ Extension Chrome et Firefox qui masque sur X les posts des comptes de vos listes
 
 L'extension n'émet **aucune requête réseau** et ne collecte aucune donnée : vos listes et réglages restent dans le stockage de votre navigateur. Elle n'agit jamais sur votre compte X. Limites connues (ce qu'une page peut observer) : [`docs/limitations.md`](docs/limitations.md).
 
-Contact, demandes de retrait d'un compte de la liste fournie : **blindspotx-confidentialite@protonmail.com**.
+Contact, demandes de retrait d'un compte de la liste fournie : **blindspotx-confidentialite@protonmail.com**. Politique de confidentialité : https://izura21.github.io/blindspotX/
 
 ## Développement
 
