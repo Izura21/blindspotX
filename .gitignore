@@ -1,0 +1,25 @@
+node_modules/
+.output/
+.wxt/
+dist/
+*.zip
+test-results/
+playwright-report/
+.vitest/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+
+# Fichiers temporaires
+temp/
+
+# Profil de navigateur de test connecté à X (cookies de session) : ne jamais commiter
+.x-profile/
+.x-brave/
+
+# Notes locales du mainteneur (assistant, backlog, fiches des stores)
+CLAUDE.md
+.claude/
+.private/

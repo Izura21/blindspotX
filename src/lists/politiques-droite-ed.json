@@ -1,0 +1,1764 @@
+{
+  "id": "politiques-droite-ed",
+  "name": "Politiques de droite / extrême droite",
+  "description": "Partis, dirigeants et élus nationaux et européens de RN, Reconquête, UDR, LR, Les Patriotes, Debout la France, Identité-Libertés.",
+  "version": 6,
+  "entries": [
+    {
+      "platform": "x",
+      "handle": "DanielGrenon89",
+      "userId": "1526201039770341378",
+      "note": "Daniel Grenon — Debout la France"
+    },
+    {
+      "platform": "x",
+      "handle": "DLF_Officiel",
+      "userId": "1435970071",
+      "note": "Debout la France — Debout la France"
+    },
+    {
+      "platform": "x",
+      "handle": "dupontaignan",
+      "note": "Nicolas Dupont-Aignan — Debout la France",
+      "userId": "38170599"
+    },
+    {
+      "platform": "x",
+      "handle": "G_Peltier",
+      "userId": "239867102",
+      "note": "Guillaume Peltier — Identité-Libertés"
+    },
+    {
+      "platform": "x",
+      "handle": "ID_Libertes",
+      "note": "Identité-Libertés — Identité-Libertés",
+      "userId": "1842533759695958016"
+    },
+    {
+      "platform": "x",
+      "handle": "LaurenceTrochu",
+      "note": "Laurence Trochu — Identité-Libertés",
+      "userId": "3707834307"
+    },
+    {
+      "platform": "x",
+      "handle": "MarionMarechal",
+      "userId": "520449734",
+      "note": "Marion Maréchal — Identité-Libertés"
+    },
+    {
+      "platform": "x",
+      "handle": "NicolasBay_",
+      "userId": "2443718293",
+      "note": "Nicolas Bay — Identité-Libertés"
+    },
+    {
+      "platform": "x",
+      "handle": "f_philippot",
+      "userId": "472412809",
+      "note": "Florian Philippot — Les Patriotes"
+    },
+    {
+      "platform": "x",
+      "handle": "_LesPatriotes",
+      "userId": "864138756068134912",
+      "note": "Les Patriotes — Les Patriotes"
+    },
+    {
+      "platform": "x",
+      "handle": "ACanayer",
+      "userId": "1482302382",
+      "note": "Agnès Canayer — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AgnesEvren",
+      "userId": "528558611",
+      "note": "Agnès Evren — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AlainCadec",
+      "userId": "467581610",
+      "note": "Alain Cadec — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "alainhoupert",
+      "userId": "101817931",
+      "note": "Alain Houpert — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "aldemontgolfier",
+      "userId": "705031944589983744",
+      "note": "Albéric de Montgolfier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AlexndraBorchio",
+      "userId": "99081902",
+      "note": "Alexandra Borchio Fontimp — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "APortier_off",
+      "note": "Alexandre Portier — LR",
+      "userId": "1503479877588160518"
+    },
+    {
+      "platform": "x",
+      "handle": "AlFruch",
+      "userId": "1247350321",
+      "note": "Alix Fruchon — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "anne_chain",
+      "userId": "3384289642",
+      "note": "Anne Chain-Larché — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AnneVentalon",
+      "userId": "1369408075673780232",
+      "note": "Anne Ventalon — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "annelaureblin",
+      "userId": "89169913",
+      "note": "Anne-Laure Blin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AnnieGenevard",
+      "userId": "3130755833",
+      "note": "Annie Genevard — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "AntoineLAON",
+      "userId": "1303614018",
+      "note": "Antoine Lefèvre — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "antoinevermorel",
+      "userId": "373425238",
+      "note": "Antoine Vermorel — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "arnaud_bazinVO",
+      "userId": "803284443876167680",
+      "note": "Arnaud Bazin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "bmicouleau",
+      "userId": "585479856",
+      "note": "Brigitte Micouleau — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "brunobelin",
+      "userId": "2242473041",
+      "note": "Bruno Belin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "BrunoRetailleau",
+      "userId": "408398312",
+      "note": "Bruno Retailleau — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "bruno_sido",
+      "userId": "1310693856",
+      "note": "Bruno Sido — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "CatBELRHITI",
+      "userId": "4046440517",
+      "note": "Catherine Belrhiti — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "catherine_dumas",
+      "userId": "487874704",
+      "note": "Catherine Dumas — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "cperrin90",
+      "userId": "496445296",
+      "note": "Cédric Perrin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "cedricvial",
+      "userId": "463808046",
+      "note": "Cédric Vial — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "celineimart",
+      "userId": "1542078349568253952",
+      "note": "Céline Imart — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ChristianBruyen",
+      "note": "Christian Bruyen — LR",
+      "userId": "926089558579666945"
+    },
+    {
+      "platform": "x",
+      "handle": "ChCambon",
+      "userId": "965652683716689920",
+      "note": "Christian Cambon — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "CBonfantiDossat",
+      "userId": "414103645",
+      "note": "Christine Bonfanti-Dossat — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "LavardeC",
+      "userId": "928162867748237312",
+      "note": "Christine Lavarde — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "Chris_Gomart",
+      "note": "Christophe Gomart — LR",
+      "userId": "1836022183681835008"
+    },
+    {
+      "platform": "x",
+      "handle": "LeFurCorentin",
+      "note": "Corentin Le Fur — LR",
+      "userId": "1800802868615651329"
+    },
+    {
+      "platform": "x",
+      "handle": "imbertcorinne17",
+      "userId": "2153608734",
+      "note": "Corinne Imbert — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "Dominiq_Estrosi",
+      "userId": "260970438",
+      "note": "Dominique Estrosi Sassone — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "LeMenerDom",
+      "userId": "493144540",
+      "note": "Dominique Le Mèner — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "EMaistre",
+      "userId": "3656408908",
+      "note": "Élisabeth de Maistre — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ElsaSchalck",
+      "userId": "1186093716",
+      "note": "Elsa Schalck — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ElseJOSEPH",
+      "userId": "390828744",
+      "note": "Else Joseph — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "BonnivardE",
+      "userId": "550352602",
+      "note": "Émilie Bonnivard — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "EricPAUGET1",
+      "userId": "770957104152768512",
+      "note": "Éric Pauget — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "e_renaud_G",
+      "userId": "931551642666852352",
+      "note": "Évelyne Renaud-Garabedian — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "FabienGenet",
+      "userId": "1490748458",
+      "note": "Fabien Genet — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "FabriceBrun",
+      "userId": "2999458558",
+      "note": "Fabrice Brun — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "fszpiner",
+      "userId": "3348869505",
+      "note": "Francis Szpiner — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "F_Bonhomme",
+      "userId": "2862090149",
+      "note": "François Bonhomme — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "fxbellamy",
+      "userId": "261860968",
+      "note": "François-Xavier Bellamy — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "FXceccoli",
+      "note": "François-Xavier Ceccoli — LR",
+      "userId": "4152242236"
+    },
+    {
+      "platform": "x",
+      "handle": "FrDumont83",
+      "userId": "761207744980549634",
+      "note": "Françoise Dumont — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "fmeunier19",
+      "userId": "1894149410",
+      "note": "Frédérique Meunier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "gerard_larcher",
+      "userId": "1134643441",
+      "note": "Gérard Larcher — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "platretgilles",
+      "note": "Gilles Platret — LR",
+      "userId": "1064503945"
+    },
+    {
+      "platform": "x",
+      "handle": "lesRep_Senat",
+      "userId": "429710343",
+      "note": "Groupe LR au Sénat — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "gchevrollier",
+      "userId": "504963196",
+      "note": "Guillaume Chevrollier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "HSaury",
+      "userId": "571641300",
+      "note": "Hugues Saury — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "IanBoucard",
+      "userId": "486927132",
+      "note": "Ian Boucard — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ilecallennec",
+      "userId": "280953384",
+      "note": "Isabelle Le Callennec — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "JeanSOL__",
+      "userId": "942469103205470214",
+      "note": "Jean Sol — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "jbblanc84",
+      "userId": "110808374",
+      "note": "Jean-Baptiste Blanc — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "JCAnglars",
+      "userId": "4114303450",
+      "note": "Jean-Claude Anglars — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "jf_cope",
+      "userId": "105116603",
+      "note": "Jean-François Copé — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "jf_husson",
+      "userId": "1565130361",
+      "note": "Jean-François Husson — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "RAPINJF",
+      "userId": "2201623084",
+      "note": "Jean-François Rapin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "JL_Thieriot",
+      "note": "Jean-Louis Thiériot — LR",
+      "userId": "998156310"
+    },
+    {
+      "platform": "x",
+      "handle": "JL_Ruelle",
+      "userId": "1710274928094699521",
+      "note": "Jean-Luc Ruelle — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "BoyerJ_M",
+      "userId": "973559329264717824",
+      "note": "Jean-Marc Boyer — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "j_pVigier",
+      "userId": "3906442118",
+      "note": "Jean-Pierre Vigier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "JRHugonet",
+      "userId": "876871625031000064",
+      "note": "Jean-Raymond Hugonet — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "J_Corneloup",
+      "userId": "983695865612251136",
+      "note": "Josiane Corneloup — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "julienaubert84",
+      "note": "Julien Aubert — LR",
+      "userId": "520259649"
+    },
+    {
+      "platform": "x",
+      "handle": "juliendive",
+      "userId": "106557131",
+      "note": "Julien Dive — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "JustineGruet",
+      "userId": "1491490325466124293",
+      "note": "Justine Gruet — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "LGarnier44",
+      "userId": "439503103",
+      "note": "Laurence Garnier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "BronnMuller",
+      "userId": "1335624623015284750",
+      "note": "Laurence Muller-Bronn — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "Laurent_Somon",
+      "note": "Laurent Somon — LR",
+      "userId": "813521564"
+    },
+    {
+      "platform": "x",
+      "handle": "laurentwauquiez",
+      "userId": "19438626",
+      "note": "Laurent Wauquiez — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "lesRepublicains",
+      "userId": "95455794",
+      "note": "Les Républicains — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "DAUBRESSE_MP",
+      "userId": "538945428",
+      "note": "Marc-Philippe Daubresse — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "mmerciersenat",
+      "userId": "753931063378976768",
+      "note": "Marie Mercier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MCCG",
+      "userId": "15719595",
+      "note": "Marie-Claire Carrère-Gée — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MDoAeschlimann",
+      "userId": "498952285",
+      "note": "Marie-Do Aeschlimann — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MoutonMP",
+      "userId": "968148448510914560",
+      "note": "Marie-Pierre Mouton — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MartadeCidrac",
+      "userId": "405780971",
+      "note": "Marta de Cidrac — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MartineBerthet",
+      "userId": "973863455429222400",
+      "note": "Martine Berthet — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "mathdarnaud",
+      "userId": "342574994",
+      "note": "Mathieu Darnaud — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "max_brisson",
+      "userId": "570754458",
+      "note": "Max Brisson — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "michelbarnier",
+      "note": "Michel Barnier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "Michelherbillon",
+      "userId": "1516703761141534723",
+      "note": "Michel Herbillon — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "MTabarot",
+      "userId": "514546669",
+      "note": "Michèle Tabarot — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "micheline_jacqu",
+      "userId": "1314976189207973889",
+      "note": "Micheline Jacques — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "nbellurot",
+      "userId": "2338089571",
+      "note": "Nadine Bellurot — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "nadine__morano",
+      "userId": "413839619",
+      "note": "Nadine Morano — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "NicolasRay03",
+      "userId": "1500129657777176576",
+      "note": "Nicolas Ray — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "NicolasSarkozy",
+      "userId": "490126636",
+      "note": "Nicolas Sarkozy — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "NTryzna_94",
+      "note": "Nicolas Tryzna — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "olivierpaccaud",
+      "userId": "1008619438999040003",
+      "note": "Olivier Paccaud — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "OlivierRietmann",
+      "userId": "1442079930360025088",
+      "note": "Olivier Rietmann — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "patrickhetzel",
+      "userId": "4733398756",
+      "note": "Patrick Hetzel — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "phgosselin",
+      "userId": "380373029",
+      "note": "Philippe Gosselin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "philippejuvin",
+      "userId": "11911322",
+      "note": "Philippe Juvin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "Mouiller_P",
+      "userId": "442945989",
+      "note": "Philippe Mouiller — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "CORDIERPierre08",
+      "userId": "2529855122",
+      "note": "Pierre Cordier — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "PierreCuypers77",
+      "userId": "938844786794074114",
+      "note": "Pierre Cuypers — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "RKaroutchi",
+      "userId": "519339693",
+      "note": "Roger Karoutchi — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ronan_legleut",
+      "userId": "17537465",
+      "note": "Ronan Le Gleut — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "DrexlerSabine",
+      "userId": "1322420899744722945",
+      "note": "Sabine Drexler — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "sophieprimas",
+      "userId": "156608013",
+      "note": "Sophie Primas — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "stephpiednoir",
+      "userId": "493045528",
+      "note": "Stéphane Piednoir — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "SautarelS",
+      "userId": "1311934517842771968",
+      "note": "Stéphane Sautarel — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "noel_sylviane",
+      "userId": "1063352742939451393",
+      "note": "Sylviane Noël — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "sylviebonnet_42",
+      "userId": "957254292146130944",
+      "note": "Sylvie Bonnet — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "thibault_bazin",
+      "userId": "1970541246",
+      "note": "Thibault Bazin — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "LigerThierry",
+      "note": "Thierry Liger — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ThierryMeignen",
+      "userId": "1830192822",
+      "note": "Thierry Meignen — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "VBazinMalgras",
+      "userId": "864248206514946048",
+      "note": "Valérie Bazin-Malgras — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "valerieboyer13",
+      "userId": "276934698",
+      "note": "Valérie Boyer — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "vpecresse",
+      "userId": "49969223",
+      "note": "Valérie Pécresse — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "VincentDescoeur",
+      "userId": "137338942",
+      "note": "Vincent Descoeur — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "VRolland73",
+      "userId": "844476456164114432",
+      "note": "Vincent Rolland — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "DubyMuller",
+      "userId": "531550143",
+      "note": "Virginie Duby-Muller — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "bretonxavier",
+      "userId": "110940366",
+      "note": "Xavier Breton — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "yannickneuder",
+      "userId": "3805750755",
+      "note": "Yannick Neuder — LR"
+    },
+    {
+      "platform": "x",
+      "handle": "ZemmourEric",
+      "userId": "1183418538285027329",
+      "note": "Éric Zemmour — Reconquête"
+    },
+    {
+      "platform": "x",
+      "handle": "GilbertCollard",
+      "userId": "471163803",
+      "note": "Gilbert Collard — Alternative France (ex-Reconquête)"
+    },
+    {
+      "platform": "x",
+      "handle": "Reconquete_off",
+      "note": "Reconquête — Reconquête"
+    },
+    {
+      "platform": "x",
+      "handle": "knafo_sarah",
+      "userId": "1111901164487000064",
+      "note": "Sarah Knafo — Reconquête"
+    },
+    {
+      "platform": "x",
+      "handle": "Al_Nikolic",
+      "userId": "1320313369379954689",
+      "note": "Aleksandar Nikolic — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "AlexandreDfss",
+      "userId": "732726264",
+      "note": "Alexandre Dufosset — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "alexandreloubet",
+      "userId": "782118072",
+      "note": "Alexandre Loubet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ASabatou",
+      "userId": "1222799668150665216",
+      "note": "Alexandre Sabatou — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "alexisjollyrn",
+      "userId": "120521019",
+      "note": "Alexis Jolly — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Anais_Sabatini",
+      "note": "Anaïs Sabatini — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ABamanaDeputee",
+      "note": "Anchya Bamana — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "AndreRougeOff",
+      "note": "André Rougé — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "angelique_ranc",
+      "userId": "1496184473439899657",
+      "note": "Angélique Ranc — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "annesicard1",
+      "note": "Anne Sicard — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "asfrigout",
+      "userId": "51018189",
+      "note": "Anne-Sophie Frigout — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "AntBoulogne54",
+      "note": "Anthony Boulogne — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "antoine_golliot",
+      "note": "Antoine Golliot — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "villedieu_a",
+      "userId": "1070414962437296133",
+      "note": "Antoine Villedieu — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Au_Evrard",
+      "note": "Auguste Evrard — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "A_Dutremble",
+      "note": "Aurélien Dutremble — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ROULLAUDBEATRIC",
+      "note": "Béatrice Roullaud — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BeneAuzanot",
+      "userId": "967709351359246337",
+      "note": "Bénédicte Auzanot — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BChaumeil_RN",
+      "note": "Bernard Chaumeil — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BrunoBilde",
+      "userId": "1635233568",
+      "note": "Bruno Bilde — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BrunoClavet",
+      "note": "Bruno Clavet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "CColombier_RN",
+      "userId": "1397542849122553859",
+      "note": "Caroline Colombier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Parmentier_RN",
+      "note": "Caroline Parmentier — RN",
+      "userId": "1073862562792521729"
+    },
+    {
+      "platform": "x",
+      "handle": "CathDellongMeng",
+      "note": "Catherine Dellong Meng — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "GrisetCatherine",
+      "userId": "1090919392840503296",
+      "note": "Catherine Griset — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "cathRimbert84",
+      "note": "Catherine Rimbert — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "C_GirardRN",
+      "note": "Christian Girard — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ChristineLoirRN",
+      "note": "Christine Loir — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Bay_Christophe",
+      "userId": "1802355173727105024",
+      "note": "Christophe Bay — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BentzChristophe",
+      "userId": "93939435",
+      "note": "Christophe Bentz — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ClaireBeuil",
+      "note": "Claire Marais-Beuil — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "TribuianiCyril",
+      "note": "Cyril Tribuiani — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "magnierdavid2",
+      "note": "David Magnier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "david_rachline",
+      "userId": "189815209",
+      "note": "David Rachline — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "EddyCasterman",
+      "userId": "917502220576460801",
+      "note": "Eddy Casterman — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "EdouardJordan1",
+      "note": "Édouard Jordan — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "diaz_edwige",
+      "userId": "4838317882",
+      "note": "Edwige Diaz — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "EmericSalmon",
+      "userId": "493628470",
+      "note": "Emeric Salmon — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BlairyEmmanuel",
+      "userId": "1487084725521063936",
+      "note": "Emmanuel Blairy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "e_Fouquart",
+      "note": "Emmanuel Fouquart — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "fabriceleggeri",
+      "note": "Fabrice Leggeri — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "FlorenceGoulet4",
+      "userId": "1471984978183528450",
+      "note": "Florence Goulet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Flo_Joubert",
+      "note": "Florence Joubert — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "francejamet",
+      "userId": "966076399",
+      "note": "France Jamet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "franckallisio",
+      "userId": "138810824",
+      "note": "Franck Allisio — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "FrankGiletti",
+      "userId": "1063004128211845120",
+      "note": "Frank Giletti — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Boccaletti83",
+      "userId": "345332120",
+      "note": "Frédéric Boccaletti — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "FalconFrederic",
+      "userId": "1526227912222990336",
+      "note": "Frédéric Falcon — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "WEBERFrederic1",
+      "note": "Frédéric Weber — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Fredericvo79738",
+      "note": "Frédéric-Pierre Vos — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "tomatis_gabriel",
+      "userId": "983295022169821184",
+      "note": "Gabriel Tomatis — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "G_Dussausaye",
+      "userId": "1098578904",
+      "note": "Gaëtan Dussausaye — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "GrangierGe",
+      "userId": "1238476209291476993",
+      "note": "Géraldine Grangier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "GillesPennelle",
+      "userId": "2175883022",
+      "note": "Gilles Pennelle — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "gisele_lelouis",
+      "userId": "1464671963121692672",
+      "note": "Gisèle Lelouis — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "groupeRN_off",
+      "note": "Groupe RN à l'Assemblée nationale — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Guillaume_Bigot",
+      "userId": "2194423693",
+      "note": "Guillaume Bigot — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "guillaumefl59",
+      "note": "Guillaume Florquin — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "HeleneLaporteRN",
+      "userId": "789179329854869507",
+      "note": "Hélène Laporte — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "H2Lepinau",
+      "note": "Hervé de Lépinau — RN",
+      "userId": "1637687536502951939"
+    },
+    {
+      "platform": "x",
+      "handle": "JPGarraud",
+      "note": "Jean-Paul Garraud — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Jphtanguy",
+      "userId": "288854464",
+      "note": "Jean-Philippe Tanguy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "jerome_buisson",
+      "userId": "125094848",
+      "note": "Jérôme Buisson — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JocelynDessigny",
+      "userId": "759014652332249088",
+      "note": "Jocelyn Dessigny — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JoelleMelinRN",
+      "userId": "2362654915",
+      "note": "Joëlle Mélin — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JonathanGery_AN",
+      "note": "Jonathan Gery — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "J_Bardella",
+      "note": "Jordan Bardella — RN",
+      "userId": "1499400284"
+    },
+    {
+      "platform": "x",
+      "handle": "jordan_guitton",
+      "userId": "1527814081322917889",
+      "note": "Jordan Guitton — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JorysB3",
+      "userId": "1453357110255931399",
+      "note": "Jorys Bovet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "beaurainjose",
+      "note": "José Beaurain — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Jose_GonzalezFN",
+      "userId": "836693613430046724",
+      "note": "José Gonzalez — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Rivirejoseph1",
+      "note": "Joseph Rivière — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "joshuahochart",
+      "note": "Joshua Hochart — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JLechanteux",
+      "userId": "2909481429",
+      "note": "Julie Lechanteux — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JulienGabarron",
+      "note": "Julien Gabarron — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "GuibertRn",
+      "note": "Julien Guibert — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "jleonardelli_",
+      "note": "Julien Leonardelli — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "julien_limongi",
+      "note": "Julien Limongi — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "JulienOdoul",
+      "userId": "440914834",
+      "note": "Julien Odoul — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "J_Rancoule",
+      "userId": "4067518516",
+      "note": "Julien Rancoule — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "jsanchez_fn",
+      "note": "Julien Sanchez — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "LevavasseurK",
+      "note": "Katiana Levavasseur — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MauvieuxKevin",
+      "userId": "898253869",
+      "note": "Kévin Mauvieux — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "k_pfeffer",
+      "userId": "22993455",
+      "note": "Kévin Pfeffer — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "LaureLavalette",
+      "userId": "1151540791",
+      "note": "Laure Lavalette — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "LRDehault",
+      "userId": "1527188940029149184",
+      "note": "Laurence Robert-Dehault — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ljacobelli",
+      "userId": "2784005936",
+      "note": "Laurent Jacobelli — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Lionel_Tivoli",
+      "userId": "2164568108",
+      "note": "Lionel Tivoli — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "LisettePollet",
+      "userId": "790535381062152192",
+      "note": "Lisette Pollet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "louis_aliot",
+      "userId": "316956459",
+      "note": "Louis Aliot — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MalikaSorel",
+      "userId": "1770754532114378752",
+      "note": "Malika Sorel — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Manon_Bouquin",
+      "note": "Manon Bouquin — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MarcDeFleurian",
+      "note": "Marc de Fleurian — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "M_Dauchy",
+      "userId": "4181419349",
+      "note": "Marie Dauchy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "FranceLorho",
+      "userId": "902788871460724740",
+      "note": "Marie-France Lorho — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "marine_hamelet",
+      "userId": "1160270849871613953",
+      "note": "Marine Hamelet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MLP_officiel",
+      "userId": "217749896",
+      "note": "Marine Le Pen — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "mandrouet",
+      "note": "Mathilde Androuët — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MatthiasRN",
+      "note": "Matthias Renault — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MarchioMatthieu",
+      "userId": "1173524445169934336",
+      "note": "Matthieu Marchio — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "mvalet_officiel",
+      "userId": "1432839907559542785",
+      "note": "Matthieu Valet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MaximeAmblard5",
+      "note": "Maxime Amblard — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "melanie_disdier",
+      "userId": "3890744956",
+      "note": "Mélanie Disdier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "TaverneMichael",
+      "note": "Michaël Taverne — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MichelGuiniot",
+      "userId": "106782026",
+      "note": "Michel Guiniot — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MichleMartinez3",
+      "userId": "1315334499077681153",
+      "note": "Michèle Martinez — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MoniqueGriseti",
+      "note": "Monique Griseti — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "NadineLechonRN",
+      "note": "Nadine Lechon — RN",
+      "userId": "1817912895394701312"
+    },
+    {
+      "platform": "x",
+      "handle": "NathCarvalho91",
+      "note": "Nathalie Da Conceicao Carvalho — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "NicolasDragon",
+      "userId": "36350521",
+      "note": "Nicolas Dragon — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "NMeizonnet",
+      "userId": "773854656",
+      "note": "Nicolas Meizonnet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "PascalJenft",
+      "note": "Pascal Jenft — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "PascalMarkowsky",
+      "note": "Pascal Markowsky — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BallardPhilippe",
+      "userId": "1030167852",
+      "note": "Philippe Ballard — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "phlottiaux",
+      "userId": "970259667434770437",
+      "note": "Philippe Lottiaux — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "PhOlivierRN",
+      "userId": "1121349820747264000",
+      "note": "Philippe Olivier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Ph_Schreck",
+      "userId": "1100772609321512961",
+      "note": "Philippe Schreck — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Meurin_P",
+      "userId": "1459094447753469964",
+      "note": "Pierre Meurin — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "pr_thionnet",
+      "note": "Pierre-Romain Thionnet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "RNational_off",
+      "userId": "78085410",
+      "note": "Rassemblement national — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "renelioret",
+      "note": "René Lioret — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "LeBourgeois7610",
+      "note": "Robert Le Bourgeois — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "rtolassy",
+      "userId": "1026316258214588417",
+      "note": "Rody Tolassy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ChudeauR",
+      "userId": "1522966362267734017",
+      "note": "Roger Chudeau — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "BaubryR",
+      "userId": "1180615972597764096",
+      "note": "Romain Baubry — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "RomainTonussi",
+      "note": "Romain Tonussi — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "SandraDELANNOY1",
+      "note": "Sandra Delannoy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Sandrine_Dogor",
+      "userId": "857607035252297729",
+      "note": "Sandrine Dogor-Such — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "sebchenu",
+      "userId": "493833484",
+      "note": "Sébastien Chenu — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Seb_Humbert",
+      "note": "Sébastien Humbert — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Serge_Muller24",
+      "note": "Serge Muller — RN",
+      "userId": "1448914405861871649"
+    },
+    {
+      "platform": "x",
+      "handle": "WerbrouckSev",
+      "userId": "822197735428333568",
+      "note": "Séverine Werbrouck — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "sblanc66000",
+      "userId": "2233497227",
+      "note": "Sophie Blanc — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "SLRoyYonne",
+      "note": "Sophie-Laurence Roy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "SteeveBriois",
+      "userId": "498983436",
+      "note": "Steeve Briois — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "stephan1Rambaud",
+      "userId": "1456335129731911684",
+      "note": "Stéphane Rambaud — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "GalzyStephanie",
+      "userId": "1462873748403474436",
+      "note": "Stéphanie Galzy — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "SJosserand30",
+      "note": "Sylvie Josserand — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Th_Bnrdt",
+      "note": "Théo Bernhardt — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "MonnierThibaut",
+      "note": "Thibaut Monnier — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "thierry_frappe",
+      "userId": "1525806145310445568",
+      "note": "Thierry Frappé — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ThierryMARIANI",
+      "userId": "87212906",
+      "note": "Thierry Mariani — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "thierryperez_",
+      "note": "Thierry Perez — RN",
+      "userId": "1812857393849806848"
+    },
+    {
+      "platform": "x",
+      "handle": "Tesson59",
+      "note": "Thierry Tesson — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Thomas_Mng",
+      "userId": "560346582",
+      "note": "Thomas Ménagé — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "Tiffany_Joncour",
+      "note": "Tiffany Joncour — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "T_Houssin",
+      "userId": "365241641",
+      "note": "Timothée Houssin — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "ValerieDeloge",
+      "note": "Valérie Deloge — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "v_joron",
+      "userId": "2991912647",
+      "note": "Virginie Joron — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "YaelMenache",
+      "userId": "1461639594521378818",
+      "note": "Yaël Ménaché — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "YoannGillet30",
+      "userId": "98735932",
+      "note": "Yoann Gillet — RN"
+    },
+    {
+      "platform": "x",
+      "handle": "AllegretPilot",
+      "note": "Alexandre Allegret-Pilot — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "Valentin_Antoi",
+      "note": "Antoine Valentin — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "bartolenoir",
+      "userId": "522646235",
+      "note": "Bartolomé Lenoir — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "BernardChaix",
+      "note": "Bernard Chaix — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "CHAlloncle",
+      "note": "Charles Alloncle — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "C_Dintorni",
+      "userId": "3165960813",
+      "note": "Christelle D'Intorni — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "ECiotti",
+      "userId": "87886754",
+      "note": "Éric Ciotti — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "ericmichoux71",
+      "note": "Éric Michoux — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "gerault_verny",
+      "note": "Gérault Verny — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "groupeudr",
+      "note": "Groupe UDR à l'Assemblée nationale — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "hanane_mnsr",
+      "userId": "4861694097",
+      "note": "Hanane Mansouri — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "PrLCastillo",
+      "note": "Laurent Castillo — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "Marc_Chavent",
+      "note": "Marc Chavent — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "MatthieuBloch",
+      "note": "Matthieu Bloch — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "Maxime_Michelet",
+      "note": "Maxime Michelet — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "OlivierFayssat",
+      "note": "Olivier Fayssat — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "PH_82000",
+      "note": "Pierre-Henri Carbonnel — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "SophieVaginay",
+      "note": "Sophie Ricourt Vaginay — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "SGoyChavent",
+      "userId": "1867353348",
+      "note": "Sylvie Goy-Chavent — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "partiudr",
+      "note": "Union des droites pour la République — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "veroniquebesse",
+      "userId": "1897666344",
+      "note": "Véronique Besse — UDR"
+    },
+    {
+      "platform": "x",
+      "handle": "Vt_Trebuchet",
+      "note": "Vincent Trébuchet — UDR"
+    }
+  ]
+}

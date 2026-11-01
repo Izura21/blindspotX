@@ -1,0 +1,47 @@
+name: Release
+
+# Un tag vX.Y.Z (créé par `pnpm release`) produit la release GitHub avec les zips.
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Tag et version de package.json identiques
+        run: |
+          version="$(node -p "require('./package.json').version")"
+          if [ "$GITHUB_REF_NAME" != "v$version" ]; then
+            echo "::error::Le tag $GITHUB_REF_NAME ne correspond pas à la version $version de package.json"
+            exit 1
+          fi
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm zip:share
+      - name: Release GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            --repo "$GITHUB_REPOSITORY" \
+            --verify-tag \
+            --title "Blindspot $VERSION" \
+            --generate-notes \
+            ".output/share/politiques/blindspot-$VERSION-chrome.zip" \
+            ".output/share/politiques/blindspot-$VERSION-firefox.zip" \
+            ".output/share/politiques/blindspot-$VERSION-sources.zip" \
+            ".output/share/sans-liste/blindspot-$VERSION-chrome-nolists.zip" \
+            ".output/share/sans-liste/blindspot-$VERSION-firefox-nolists.zip"

@@ -1,0 +1,10 @@
+.output/
+.wxt/
+pnpm-lock.yaml
+docs/
+.x-brave/
+.x-profile/
+temp/
+.private/
+.claude/
+CLAUDE.md
